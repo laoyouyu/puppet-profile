@@ -1,4 +1,4 @@
-class profile::ntp(
+class profile::base(
  Array $ntp_servers,
 )
 {
